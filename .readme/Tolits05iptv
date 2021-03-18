@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:-1, Raya and The Last Dragon
+https://www.dropbox.com/s/5sy0pivdd30lrky/2469b8c0f1e781826f73c6acfbb9e182-1080p.mp4.mp4?dl=1
+
+#EXTINF:-1, The Kapamilya Channel 
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+
+#EXTINF:-1,PTV4
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+
+#EXTINF:-1,TV5(main)
+http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w857200055_b1128000.m3u8
+
+#EXTINF:-1, TV5(nw)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
+
+#EXTINF:-1,ANC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+
+#EXTINF:-1,GMA7
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+
+#EXTINF:-1,CNN PH(main)
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1,CNN PH(nw)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+
+#EXTINF:-1,NICK
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+
+#EXTINF:-1,JEEPNEY TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+
+#EXTINF:-1,GTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+
+
+#EXTINF:-1,IBC13
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+
+
+#EXTINF:-1,DZRH TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
+
+
+#EXTINF:-1,CINEMA1
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+
+#EXTINF:-1,PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+
+#EXTINF:-1,CINEMAX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
+
+#EXTINF:-1,FOX PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
+
+#EXTINF:-1,HBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+
+#EXTINF:-1,ONE SPORTS
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w943640490_b1128000.m3u8
+
+#EXTINF:-1,ONE SPORTS+
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+
+#EXTINF:-1,ONE PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
+
+#EXTINF:-1,MYX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
+
+#EXTINF:-1,SOLAR
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
+
+#EXTINF:-1,NBA PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+
+#EXTINF:-1,AXN PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
+
+#EXTINF:-1,PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+
+#EXTINF:-1,DEPED CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
+
+#EXTINF:-1,SABONG
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
+
+#EXTINF:-1,ANIMAX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+
+#EXTINF:-1,DISNEY
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+
+#EXTINF:-1,CINEMO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+
+#EXTINF:-1,NATGEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+
+#EXTINF:-1,METRO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/129.m3u8
+
+#EXTINF:-1,ETC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
+
+#EXTINF:-1,WARNER TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
+
+#EXTINF:-1,KNOWLEDGE CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/135.m3u8
+
+#EXTINF:-1,???
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/137.m3u8
+
+#EXTINF:-1,SARISARI
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
+
+#EXTINF:-1,CNN
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
+
+#EXTINF:-1,CHANNEL V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8?token=
+
+#EXTINF:-1,THRILL
+http://61.19.242.134/feed/LC26/index.m3u8
+
+#EXTINF:-1,PARAMOUNT 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1,NET25
+https://ebc.sytes.net/hls/net25.m3u8
+
+#EXTINF:-1,UNTV
+https://www.untvweb.com/live-stream/chunklist_b2592000.m3u8
+
+#EXTINF:-1,INCTV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
